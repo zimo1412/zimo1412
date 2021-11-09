@@ -1,4 +1,5 @@
 ### Hey, Zimo here! 👋 <img align="right" alt="zimo1412's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=zimo1412&count_private=true&show_icons=true&theme=tokyonight" />
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
 <!--
 **zimo1412/zimo1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
