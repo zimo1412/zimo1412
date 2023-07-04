@@ -5,7 +5,7 @@
 - 💌 I'm all about connections! If my work sparks an idea or you simply fancy a chat, don't hesitate to shoot me an email! Happy coding! 😄
 
 
-### 👨🏻‍💻 Skills
+### 📚 Skills
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
